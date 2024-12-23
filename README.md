@@ -4,9 +4,6 @@ This Rust tool facilitates the execution of indirect system calls within Windows
 Designed to bypass the limitations of direct system API calls.
 
 
-# Getting Started
-
-
 # Usage
 1. Git clone Repo
 
