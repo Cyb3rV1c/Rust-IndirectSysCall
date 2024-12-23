@@ -11,8 +11,6 @@ Designed to bypass the limitations of direct system API calls.
    
 3. Cargo Build & Run 
 
-4. Profit!
-
 # Example Output
 
 **Execution** 
