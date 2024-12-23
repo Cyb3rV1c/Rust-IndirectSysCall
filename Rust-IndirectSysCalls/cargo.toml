@@ -1,0 +1,16 @@
+[package]
+name = "Rust_IndirectSysCalls"
+version = "0.1.0"
+edition = "2021"
+
+[build-dependencies]
+cc = "1.0"
+
+[dependencies]
+winapi = { version = "0.3", features = ["libloaderapi", "winnt", "processthreadsapi"] }
+
+[profile.dev]
+panic = "unwind"
+
+[profile.release]
+panic = "abort"
