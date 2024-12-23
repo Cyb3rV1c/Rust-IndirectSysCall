@@ -22,6 +22,7 @@ Designed to bypass the limitations of direct system API calls.
 # Credits
 
 https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls
+
 https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls/tree/main
 
 # Disclaimer
